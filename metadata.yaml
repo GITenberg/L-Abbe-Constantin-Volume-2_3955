@@ -1,5 +1,5 @@
 _repo: L-Abbe-Constantin-Volume-2_3955
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -32,5 +32,6 @@ subjects:
 - !lcsh 'Love stories'
 - !lcsh 'France -- Social life and customs -- 19th century -- Fiction'
 - !lcsh 'Clergy -- France -- Fiction'
+- GITenberg
 title: L'Abbe Constantin — Volume 2
 url: http://www.gutenberg.org/ebooks/3955
